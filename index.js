@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendKitten(name) {
@@ -31,3 +32,7 @@ function removeLastKitten() {
 function removeFirstKitten() {
   return kittens.slice(1)
 }
+=======
+const app = "I don't do much."
+var kittens = ["Milo", "Otis", "Garfield"]
+>>>>>>> cb90379ebbbe703a73332d0e75ae8a2d774c3276
